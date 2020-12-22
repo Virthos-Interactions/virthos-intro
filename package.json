@@ -1,0 +1,22 @@
+{
+  "name": "virthos-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virthos-Interactions/virthos-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Virthos-Interactions/virthos-intro/issues"
+  },
+  "homepage": "https://github.com/Virthos-Interactions/virthos-intro#readme",
+  "dependencies": {
+    "cli-color": "^2.0.0"
+  }
+}
