@@ -1,22 +1,36 @@
 {
   "name": "virthos-intro",
   "version": "1.0.0",
-  "description": "",
+  "description": "Virthos Logo Intro",
   "main": "index.js",
+  "dependencies": {
+    "ansi-regex": "^2.1.1",
+    "cli-color": "^2.0.0",
+    "d": "^1.0.1",
+    "es5-ext": "^0.10.53",
+    "es6-iterator": "^2.0.3",
+    "es6-symbol": "^3.1.3",
+    "es6-weak-map": "^2.0.3",
+    "event-emitter": "^0.3.5",
+    "ext": "^1.4.0",
+    "is-promise": "^2.2.2",
+    "lru-queue": "^0.1.0",
+    "memoizee": "^0.4.14",
+    "next-tick": "^1.0.0",
+    "timers-ext": "^0.1.7",
+    "type": "^1.2.0"
+  },
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Virthos-Interactions/virthos-intro.git"
   },
-  "author": "",
+  "author": "Carlos Eduardo da Silva",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Virthos-Interactions/virthos-intro/issues"
   },
-  "homepage": "https://github.com/Virthos-Interactions/virthos-intro#readme",
-  "dependencies": {
-    "cli-color": "^2.0.0"
-  }
+  "homepage": "https://github.com/Virthos-Interactions/virthos-intro#readme"
 }
